@@ -1,0 +1,28 @@
+## Visual Studio & .NET Core
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Archive files
+*.zip
+*.tar.gz
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+*.sln.iml
+
+.DS_Store
+*.log
+
